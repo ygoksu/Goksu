@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638112262 source:c:\users\administrator\desktop\codeblocks\konu sonu 7.9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1641852530 source:c:\users\administrator\desktop\codeblocks\konu sonu 7.37\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
